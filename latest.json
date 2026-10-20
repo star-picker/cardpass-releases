@@ -1,0 +1,6 @@
+{
+  "version": "v1.4.3",
+  "notes": "CardPass 1.4.3: real Shenzhen metro line geometry, bus layer loading and jank fixes, map clipped to its frame.",
+  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.4.3",
+  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.4.3/CardPass-1.4.3.apk"
+}
