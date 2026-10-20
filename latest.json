@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.0",
-  "notes": "CardPass 1.5.0: tap a card to open the app, update checks from this repository, full transit-card history snapshots with a bank-style detail, and no plaintext card logs by default.",
-  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.5.0",
-  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.5.0/CardPass-1.5.0.apk"
+  "version": "v1.6.0",
+  "notes": "CardPass 1.6.0: composite cards are read application by application (CU/EMV/TU), the CU printed number is decoded, application lists merge across reads, and both detail pages show the other half.",
+  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.0",
+  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.0/CardPass-1.6.0.apk"
 }
