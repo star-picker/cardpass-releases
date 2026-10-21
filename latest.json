@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.2",
-  "notes": "CardPass 1.6.2: reading step hints, per-city discount progress, city-filtered place lookup and NTAG hardening.",
-  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.2",
-  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.2/CardPass-1.6.2.apk"
+  "version": "v1.6.3",
+  "notes": "CardPass 1.6.3: full bank+transit export, full read-log recording with zip export, scrollable wallet stack.",
+  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.3",
+  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.3/CardPass-1.6.3.apk"
 }
