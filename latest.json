@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.3",
-  "notes": "CardPass 1.6.3: full bank+transit export, full read-log recording with zip export, scrollable wallet stack.",
-  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.3",
-  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.3/CardPass-1.6.3.apk"
+  "version": "v1.6.4",
+  "notes": "CardPass 1.6.4: every per-read state is reset before reading a new card, fixing the previous card number appearing on back-to-back reads.",
+  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.4",
+  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.4/CardPass-1.6.4.apk"
 }
