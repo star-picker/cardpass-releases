@@ -30,7 +30,7 @@ CardPass turns an Android phone into a reader for transit smart cards and a safe
 
 ## Links
 
-- Source code: <https://github.com/star-picker/cardpass-Android>
+- Source code: Currently not open source.
 - License: MIT
 
 ---
@@ -65,5 +65,5 @@ CardPass turns an Android phone into a reader for transit smart cards and a safe
 
 ## 链接
 
-- 源码:<https://github.com/star-picker/cardpass-Android>
+- 源码:当前暂不开源
 - 许可证:MIT
