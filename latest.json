@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.0",
-  "notes": "CardPass 1.6.0: composite cards are read application by application (CU/EMV/TU), the CU printed number is decoded, application lists merge across reads, and both detail pages show the other half.",
-  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.0",
-  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.0/CardPass-1.6.0.apk"
+  "version": "v1.6.1",
+  "notes": "CardPass 1.6.1: NfcToolsPro-style tag details on read and write pages, blank Type 2 NDEF formatting/writing, page-level NDEF read-back, and NDEF discovery in reader mode.",
+  "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.1",
+  "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.1/CardPass-1.6.1.apk"
 }
