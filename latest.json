@@ -1,6 +1,6 @@
 {
   "version": "v1.6.5",
-  "notes": "CardPass 1.6.5: data updates, chip info, Track 2, DF61, pairing, authoritative-source map features.",
+  "notes": "CardPass 1.6.5: online data updates, chip info, Track 2, DF61, pairing and coordinate fill.",
   "page": "https://github.com/star-picker/cardpass-releases/releases/tag/v1.6.5",
   "apk": "https://github.com/star-picker/cardpass-releases/releases/download/v1.6.5/CardPass-1.6.5.apk"
 }
